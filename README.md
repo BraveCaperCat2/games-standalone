@@ -41,7 +41,9 @@
   * [ModUpdate](factorio/factorio-modupdate)
   * [Clusterio](factorio/clusterio)
 * [Foundry VTT](foundry_vtt)
-* [FTL: Tachyon](ftl_tachyon)
+* [Tachyons](tachyons)
+  * [Tachyons CE](tachyons/ce)
+  * [Tachyons Latest](tachyons/latest)
 * [Grand Theft Auto](gta)
   * GTA V
     * [FiveM](gta/fivem)
